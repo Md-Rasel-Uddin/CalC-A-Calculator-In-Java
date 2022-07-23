@@ -1,0 +1,4 @@
+net/practicalcoding/scientificcalculator/BuildConfig.java
+ net.practicalcoding.scientificcalculator.BuildConfig
+net/practicalcoding/scientificcalculator/MainActivity.java
+ net.practicalcoding.scientificcalculator.MainActivity
